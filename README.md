@@ -40,7 +40,7 @@ Example predictions:
 
 "Ford came out with a new hybrid engine model." → rec.autos
 "Advancements in AI technology are rapidly changing the industry." → comp.sys.mac.hardware
-Feel free to add any installation instructions, code examples, or additional details if required. Let me know if you'd like any adjustments!
+
 
 
 
